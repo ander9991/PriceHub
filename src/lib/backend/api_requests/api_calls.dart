@@ -17,7 +17,7 @@ class SearchCall {
       apiUrl: 'https://amazon24.p.rapidapi.com/api/product',
       callType: ApiCallType.GET,
       headers: {
-        'X-RapidAPI-Key': 'f3d6f7c398msh331b7d869a0f500p1ab56bjsn4427be166bb5',
+        'X-RapidAPI-Key': '***********************',
         'X-RapidAPI-Host': 'amazon24.p.rapidapi.com',
       },
       params: {
